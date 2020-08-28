@@ -1,11 +1,11 @@
 rootProject.name = "private_messages"
-include(":ok-users-backend-common")
 
 pluginManagement {
+    val kotlinVersion: String by settings
     plugins {
-        val kotlinVersion: String by settings
-
         kotlin("jvm") version kotlinVersion apply false
         kotlin("multiplatform") version kotlinVersion apply false
     }
 }
+include("ok-transport-common")
+include("ok-users-backend-common")

@@ -1,7 +1,8 @@
 package ru.otuskotlin.users.backend
 
 import java.util.*
-
+//TODO: add default values
+//TODO:: add context
 data class MessageModel(val id: UUID,
                         val text: String,
                         val createdTime: Date,

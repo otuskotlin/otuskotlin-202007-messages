@@ -9,3 +9,4 @@ pluginManagement {
 }
 include("ok-transport-common")
 include("ok-users-backend-common")
+include("ok-user-mp-transport-models")

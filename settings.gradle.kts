@@ -9,3 +9,4 @@ pluginManagement {
         kotlin("multiplatform") version kotlinVersion apply false
     }
 }
+include("ok-user-mp-transport-models")

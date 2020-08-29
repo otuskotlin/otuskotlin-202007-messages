@@ -7,6 +7,6 @@ pluginManagement {
         kotlin("multiplatform") version kotlinVersion apply false
     }
 }
-include("ok-transport-common")
-include("ok-users-backend-common")
-include("ok-user-mp-transport-models")
+include("message-common")
+include("message-transport-common")
+include("message-transport-kafka")

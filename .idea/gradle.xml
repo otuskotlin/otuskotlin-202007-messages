@@ -11,9 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ok-user-mp-transport-models" />
-            <option value="$PROJECT_DIR$/ok-transport-common" />
-            <option value="$PROJECT_DIR$/ok-users-backend-common" />
+            <option value="$PROJECT_DIR$/message-common" />
+            <option value="$PROJECT_DIR$/message-transport-common" />
+            <option value="$PROJECT_DIR$/message-transport-kafka" />
           </set>
         </option>
       </GradleProjectSettings>

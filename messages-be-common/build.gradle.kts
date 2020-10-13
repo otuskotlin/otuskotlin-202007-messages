@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm")
+//    kotlin("jvm")
 }
 
 group = "ru.otus.otuskotlin.private_messages"

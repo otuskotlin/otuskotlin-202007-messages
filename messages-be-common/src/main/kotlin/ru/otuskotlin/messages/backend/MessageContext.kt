@@ -1,6 +1,6 @@
-package ru.otuskotlin.users.backend
+package ru.otuskotlin.messages.backend
 
-import ru.otuskotlin.users.backend.model.MessageModel
+import ru.otuskotlin.messages.backend.model.MessageModel
 
 data class MessageContext (
         var requestMessageId: String = "",

@@ -1,4 +1,4 @@
-package ru.otuskotlin.users.backend
+package ru.otuskotlin.messages.backend
 
 enum class MessageContextStatus {
     NONE,

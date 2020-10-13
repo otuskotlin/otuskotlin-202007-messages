@@ -1,4 +1,4 @@
-package ru.otuskotlin.users.backend.model
+package ru.otuskotlin.messages.backend.model
 
 import java.time.Instant
 import java.util.*

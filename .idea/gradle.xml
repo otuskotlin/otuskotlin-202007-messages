@@ -11,9 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/message-be-common" />
-            <option value="$PROJECT_DIR$/message-transport-common" />
-            <option value="$PROJECT_DIR$/message-transport-kafka" />
+            <option value="$PROJECT_DIR$/messages-be-common" />
+            <option value="$PROJECT_DIR$/messages-transport-kafka" />
+            <option value="$PROJECT_DIR$/messages-transport-models" />
           </set>
         </option>
       </GradleProjectSettings>

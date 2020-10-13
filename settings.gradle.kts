@@ -7,6 +7,6 @@ pluginManagement {
 //        kotlin("multiplatform") version kotlinVersion apply false
     }
 }
-include("message-be-common")
-include("message-transport-common")
-include("message-transport-kafka")
+include("messages-be-common")
+include("messages-transport-models")
+include("messages-transport-kafka")

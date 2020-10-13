@@ -1,24 +1,4 @@
-### Java ###
-*.class
-
-# BlueJ files
-*.ctxt
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-### Gradle ###
-.gradle
-/build/
-
-# Idea config
-*.iml
-.idea
-
-# Ignore Gradle GUI config
-gradle-app.setting
-
-# Cache of project
-.gradletasknamecache
+/build
+*/build
+**/.idea
+**/.gradle
